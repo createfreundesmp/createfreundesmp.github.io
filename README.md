@@ -1,9 +1,8 @@
----
 title: Create: FreundeSMP
 subtitle: Die Website vom Create: FreundeSMP
 layout: page
 callouts: home_callouts
----
+
 
 # Create: FreundeSMP
 Die offizielle Website des Create: FreundeSMP!
