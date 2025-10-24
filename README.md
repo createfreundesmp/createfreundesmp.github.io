@@ -1,4 +1,4 @@
-# Create: FreundeSMP 4
+# Create: FreundeSMP
 Die offizielle Website des Create: FreundeSMP!
 
 Möglicherweise ein WIP
