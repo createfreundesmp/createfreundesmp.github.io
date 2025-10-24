@@ -25,3 +25,4 @@ defaults:
     values:
       hero_image: /path/to/create_blur_hintergrund.png
       hero_height: is-large
+      title:
