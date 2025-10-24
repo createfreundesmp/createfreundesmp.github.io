@@ -17,5 +17,4 @@ lang: de
 layout: page
 title: My page
 hero_image: /path/to/image.png
-description: This is the meta description for this page and will help it appear in search engines
 image: /img/create_logo.png
