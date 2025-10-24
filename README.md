@@ -15,4 +15,4 @@ A: Gehe in der oberen Leiste auf "Bewerben". Lese dir die Anforderungen durch, u
 Q: Ich habe Fragen über den Server, wo kann ich Kontakt aufnehmen?
 A: Schreibe mir deine Frage auf Discord, mein Name ist DoktorCraft.
 
-Made by DoktorCraft
+*Made by DoktorCraft*
