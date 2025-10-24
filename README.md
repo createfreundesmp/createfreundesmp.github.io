@@ -1,57 +1,43 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Create: FreundeSMP
+subtitle: Die Website vom Create: FreundeSMP
 layout: page
 callouts: home_callouts
-show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+# Create: FreundeSMP
+Die offizielle Website des Create: FreundeSMP!
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+Möglicherweise ein WIP
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
-![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)
+Bewerbung: [Hier clicken](https://docs.google.com/forms/d/e/1FAIpQLSemm-ekoUENyDw3eN0Zr3XP9A32x2ezaYr-uL3P8UvLmgUbmA/viewform?usp=sharing&ouid=107367983667635999048)
 
-## Maintenance and Support
+Made by DoktorCraft
 
-If you would like to help support the maintenance of this theme then the theme can be found on GitHub. 
+Hallo
 
-[View the GitHub repo](https://github.com/chrisrhymes/bulma-clean-theme)
+Mangos
 
-[Sponsor on GitHub](https://github.com/sponsors/chrisrhymes)
+67
 
-## Ruby Gem
+Mir geht es nichtmehr gut
 
-The ruby gem is available on the Ruby Gems website at the following location: 
+Oh oh
 
-[https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
+Die Gummizelle
 
-## Documentation
+DIE RATTEN
 
-For full instructions, please see the [Documentation](/bulma-clean-theme/docs/)
+CRAZY?
 
-## Page Layouts
+I WAS CRAZY ONCE
 
-This demo site showcases the available page layout options. 
+AAAAAAAAAAAAAAAAAAAAAAAA
 
-* [Landing Page With Callouts](/bulma-clean-theme/landing/)
-* [Promo Page](/bulma-clean-theme/promo-page/)
-* [Links Page](/bulma-clean-theme/links/)
-* [Sponsors Page](/bulma-clean-theme/sponsors/)
-* [Image Gallery](/bulma-clean-theme/gallery/)
-* [Recipe Page](/bulma-clean-theme/example-recipe/)
-* [Blog](/bulma-clean-theme/blog/)
-* [Post](/bulma-clean-theme/2021/10/30/creating-a-post-series/)
+Hi :)
 
-## Page components
+Ok gehst du jetzt?
 
-Standard pages can also use the following components:
+/stop
 
-* Sidebar
-* Menubar
-* Tabs
-* Footer
-* Hero
-* Contents
+Bitte mach einfach 😭
