@@ -23,4 +23,4 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      hero_image: /path/to/image.jpg
+      hero_image: /path/to/2024-12-11_16.04.27.png
