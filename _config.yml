@@ -16,5 +16,5 @@ fixed_navbar: top
 lang: de
 layout: page
 title: Create FreundeSMP
-hero_image: createfreundesmp.github.io/path/to/image.png
-image: createfreundesmp.github.io/img/create_logo.png
+hero_image: /createfreundesmp.github.io/path/to/image.png
+image: /createfreundesmp.github.io/img/create_logo.png
