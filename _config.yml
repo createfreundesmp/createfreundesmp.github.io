@@ -18,3 +18,9 @@ layout: page
 title: Create FreundeSMP
 hero_image: /createfreundesmp.github.io/path/to/image.png
 image: /createfreundesmp.github.io/path/to/create_logo.png
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      hero_image: /path/to/image.jpg
