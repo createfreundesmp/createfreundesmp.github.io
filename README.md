@@ -9,10 +9,10 @@ Der Create: FreundeSMP ist ein Modded-Minecraft Server mit Fokus auf ein reichha
 * Extra für diesen Server developte Mod & KubeJS Code
 
 # Q & A:
-## Q: Wie mache ich mit?
+### Q: Wie mache ich mit?
 A: Gehe in der oberen Leiste auf "Bewerben". Lese dir die Anforderungen durch, und wenn du sie erfüllst, kannst du dich bewerben
 
-## Q: Ich habe Fragen über den Server, wo kann ich Kontakt aufnehmen?
+### Q: Ich habe Fragen über den Server, wo kann ich Kontakt aufnehmen?
 A: Schreibe mir deine Frage auf Discord, mein Name ist DoktorCraft.
 
 *Made by DoktorCraft*
