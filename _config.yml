@@ -23,6 +23,6 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      hero_image: /path/to/create_blur_hintergrund.png
+      hero_image: /path/to/create_hintergrund_blur.png
       hero_height: is-large
       title:
