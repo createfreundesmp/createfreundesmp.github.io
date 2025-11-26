@@ -6,7 +6,7 @@ Der Create: FreundeSMP ist ein Modded-Minecraft Server mit Fokus auf ein reichha
 * Ein eigenes Modpack
 * Phasensystem für die Verlängerung des Gameplays
 * Eigenes RP System wo jeder Spieler die Chance kriegt, den Server mitzubestimmen.
-* Extra für diesen Server developte Mod & KubeJS Code
+* Extra für diesen Server developte Mod & KubeJS Code mit kombiniert, über 2500 Zeilen an Code.
 
 # Q & A:
 ### Q: Wie mache ich mit?
