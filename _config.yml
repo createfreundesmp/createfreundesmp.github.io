@@ -1,0 +1,24 @@
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+plugins:
+  - jekyll-remote-theme
+
+title: Create FreundeSMP
+lang: de
+highlighter: rouge
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+      show_navbar: true
+      fixed_navbar: true
+      hero_image: /path/to/create_hintergrund_blur.png
+      image: /path/to/create_logo.png
+
+lsi: false
+safe: true
+incremental: false
+
+mathjax:
+  enabled: true
